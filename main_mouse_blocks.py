@@ -89,7 +89,7 @@ if __name__ == "__main__":
     model_name = dataset_name + '_fcn_' + str(num_filters) + '_' + str(raw_data_type.value) + '.h5'
     
     # Train feature extractor
-    train_feature_extractor()
+    # train_feature_extractor()
     
     # User authentication/verification
     for num_blocks in range(1,6):
