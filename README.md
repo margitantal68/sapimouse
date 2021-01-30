@@ -4,13 +4,11 @@ SapiMouse - a new dataset for Mouse Dynamics
 Repository for paper: SapiMouse: Mouse Dynamics-based User Authentication Using Deep Feature Learning
 
 ## SapiMouse dataset
-*Data collection software: https://mousedynamicsdatalogger.netlify.app
+Data collection software: https://mousedynamicsdatalogger.netlify.app
    * session 1 - 1 minute
    * session 2 - 3 minutes
-   * 120 subjects
-   	* 92 male
-   	* 28 female
-   * log files lines: $(timestamp, button, state, x, y)$
+   * 120 subjects (92 male, 28 female)
+   * log file lines: [timestamp, button, state, x, y]
    
 ## Raw features folder: input_csv_mouse
    * step 1: first order differences (absolute value) - |dx|,|dy|
