@@ -5,8 +5,8 @@ Repository for paper: SapiMouse: Mouse Dynamics-based User Authentication Using 
 
 ## SapiMouse dataset
 Data collection software: https://mousedynamicsdatalogger.netlify.app
-   * session 1 - 1 minute
-   * session 2 - 3 minutes
+   * session 1 - S3 - 3 minutes
+   * session 2 - S1 - 1 minute
    * 120 subjects (92 male, 28 female)
    * log file lines: [timestamp, button, state, x, y]
    
