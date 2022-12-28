@@ -1,5 +1,5 @@
-# sapimouse
-SapiMouse - a new dataset for Mouse Dynamics
+# SapiMouse
+SapiMouse - a new dataset for Mouse Dynamics (2020)
 
 Repository for paper: SapiMouse: Mouse Dynamics-based User Authentication Using Deep Feature Learning
 
