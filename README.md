@@ -23,6 +23,9 @@ Repository for paper: SapiMouse: Mouse Dynamics-based User Authentication Using 
    * step 1: feature learning (training a fully convolutional neural network, see TRAINED_MODELS) using subset 1
    	 
    * step 2: creating a One-class SVM model for each subject from subset 2
+## Publications
+   * Margit Antal, Norbert Fejer, Krisztian Buza (<b>2021</b>), SapiMouse: Mouse Dynamics-based User Authentication Using Deep Feature Learning, May 19-21, 2021, [LINK](https://ieeexplore.ieee.org/document/9465583).
+   * M. Antal, K. Buza and N. Fejer (<b>2021</b>), "SapiAgent: A Bot Based on Deep Learning to Generate Human-Like Mouse Trajectories," in IEEE Access, vol. 9, pp. 124396-124408, 2021, doi: 10.1109/ACCESS.2021.3111098, IF: 3.367, [LINK](https://ieeexplore.ieee.org/document/9530664).
    
    
 	
